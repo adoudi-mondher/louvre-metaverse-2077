@@ -22,8 +22,8 @@
 |--------|--------|
 | **↑ ↓ ← →** ou **ZQSD/WASD** | Se déplacer |
 | **Souris** | Regarder autour (rotation 360°) |
-| **Clic** | Verrouiller la vue |
-| **ESC** | Déverrouiller la vue |
+| **Clic** | Déverrouiller la vue |
+| **ESC** | Verrouiller la vue |
 | **Menu burger** | Changer de salle |
 
 ## 🚀 Installation
