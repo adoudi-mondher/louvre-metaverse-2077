@@ -2,6 +2,7 @@
 
 > Musée virtuel immersif du Louvre en 2077 - Une expérience cyberpunk utilisant Three.js
 
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat-square&logo=github)](https://adoudi-mondher.github.io/louvre-metaverse-2077/)
 [![Three.js](https://img.shields.io/badge/Three.js-r128-black?style=flat-square&logo=three.js)](https://threejs.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
