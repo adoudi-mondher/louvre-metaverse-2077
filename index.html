@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Louvre Metaverse Portal 2077</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="loading">
+        <div>
+            <div class="loader"></div>
+            <div>Chargement du Metaverse...</div>
+        </div>
+    </div>
+
+    <!-- Effet Glitch pour transitions -->
+    <div id="glitch-overlay" class="glitch-hidden">
+        <div class="glitch-scanlines"></div>
+        <div class="glitch-noise"></div>
+    </div>
+
+    <div id="canvas-container"></div>
+
+    <div id="ui-overlay">
+        <!-- Menu Burger Cyberpunk -->
+        <div id="burger-menu-btn" class="cyber-btn">
+            <div class="burger-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+
+        <!-- Menu Overlay -->
+        <nav id="burger-menu" class="menu-closed">
+            <div class="menu-content">
+                <h2 class="menu-title">NAVIGATION</h2>
+                <ul class="menu-list">
+                    <li class="menu-item" data-room="renaissance">
+                        <span class="menu-icon">🏛️</span>
+                        <span class="menu-text">Salle Renaissance</span>
+                    </li>
+                    <li class="menu-item" data-room="egypt">
+                        <span class="menu-icon">🏺</span>
+                        <span class="menu-text">Antiquités Égyptiennes</span>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div id="header">
+            <h1>LOUVRE METAVERSE</h1>
+            <p>Année 2077 - Visite Virtuelle Immersive</p>
+        </div>
+
+        <div id="controls">
+            <div class="control-key">
+                <span class="key">↑</span>
+                <span>Avancer</span>
+            </div>
+            <div class="control-key">
+                <span class="key">↓</span>
+                <span>Reculer</span>
+            </div>
+            <div class="control-key">
+                <span class="key">←</span>
+                <span>Gauche</span>
+            </div>
+            <div class="control-key">
+                <span class="key">→</span>
+                <span>Droite</span>
+            </div>
+            <div class="control-key">
+                <span class="key">Souris</span>
+                <span>Regarder</span>
+            </div>
+            <div class="control-key">
+                <span class="key">Clic</span>
+                <span>Deverrouiller</span>
+            </div>
+            <div class="control-key">
+                <span class="key">ESC</span>
+                <span>Verrouiller</span>
+            </div>
+        </div>
+
+        <div id="artwork-info">
+            <h2 id="artwork-title"></h2>
+            <p id="artwork-description"></p>
+        </div>
+
+        <!-- Panneau enrichi en mode zoom -->
+        <div id="zoom-panel" class="zoom-hidden">
+            <div class="zoom-content">
+                <h2 id="zoom-title"></h2>
+                <p id="zoom-artist"></p>
+                <div id="zoom-description"></div>
+                <div class="zoom-hint">Appuyez sur [ESC] pour quitter</div>
+            </div>
+        </div>
+
+        <div id="lock-indicator"></div>
+
+        <canvas id="minimap"></canvas>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
