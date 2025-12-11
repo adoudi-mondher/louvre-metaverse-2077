@@ -21,7 +21,7 @@
 
 | Touche | Action |
 |--------|--------|
-| **↑ ↓ ← →** ou **ZQSD/WASD** | Se déplacer |
+| **↑ ↓ ← →** | Se déplacer |
 | **Souris** | Regarder autour (rotation 360°) |
 | **Clic** | Déverrouiller la vue |
 | **ESC** | Verrouiller la vue |
