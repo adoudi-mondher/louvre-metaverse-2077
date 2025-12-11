@@ -1,6 +1,7 @@
 # Louvre Metaverse 2077
 
 > Musée virtuel immersif du Louvre en 2077 - Une expérience cyberpunk utilisant Three.js
+> Appuyer sur Live Demo pour consulter nnotre prototype en live
 
 [![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat-square&logo=github)](https://adoudi-mondher.github.io/louvre-metaverse-2077/)
 [![Three.js](https://img.shields.io/badge/Three.js-r128-black?style=flat-square&logo=three.js)](https://threejs.org/)
@@ -106,9 +107,14 @@ louvre-metaverse-2077/
 - [ ] Nouvelles salles (Art Moderne, Sculptures, etc.)
 
 
-## 👨‍💻 Auteur
+## 👨‍💻 Auteur - Team Blackwall.exe 2077
 
 Projet réalisé dans le cadre de Hackaton Metz Numeric Shchool 2025.
+**Vincent HAUVUY**
+**Mondher ADOUDI**
+**Naima BEOUCHE**
+**Jeremy GAY**
+**Soufien MADHOUNA**
 
 ---
 
