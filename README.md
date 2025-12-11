@@ -1,4 +1,4 @@
-# 🏛️ Louvre Metaverse 2077
+# Louvre Metaverse 2077
 
 > Musée virtuel immersif du Louvre en 2077 - Une expérience cyberpunk utilisant Three.js
 
@@ -6,18 +6,17 @@
 [![Three.js](https://img.shields.io/badge/Three.js-r128-black?style=flat-square&logo=three.js)](https://threejs.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
-- 🎨 **Navigation 3D immersive** - Explorez le musée en vue première personne
-- 🏛️ **Salles thématiques** - Salle Renaissance et Antiquités Égyptiennes
-- 🎮 **Menu burger cyberpunk** - Navigation fluide entre les salles avec effets glitch
-- ⚡ **Téléportation instantanée** - Changement de salle avec transition glitch (700ms)
-- 🖼️ **Œuvres authentiques** - 12 chefs-d'œuvre du Louvre avec informations détaillées
-- 🌟 **Effets visuels cyberpunk** - Particules flottantes, néons, scanlines, animations glitch
-- 📍 **Minimap en temps réel** - Visualisez votre position et les œuvres
-- 💫 **Interface futuriste** - Design inspiré de l'esthétique cyberpunk 2077
+- **Navigation 3D immersive** - Explorez le musée en vue première personne
+- **Salles thématiques** - Salle Renaissance et Antiquités Égyptiennes
+- **Menu burger cyberpunk** - Navigation fluide entre les salles avec effets glitch
+- **Téléportation instantanée** - Changement de salle avec transition glitch (700ms)
+- **Œuvres authentiques** - 12 chefs-d'œuvre du Louvre avec informations détaillées
+- **Effets visuels cyberpunk** - Particules flottantes, néons, scanlines, animations glitch
+- **Interface futuriste** - Design inspiré de l'esthétique cyberpunk 2077
 
-## 🎮 Contrôles
+## Contrôles
 
 | Touche | Action |
 |--------|--------|
@@ -27,7 +26,7 @@
 | **ESC** | Verrouiller la vue |
 | **Menu burger** | Changer de salle |
 
-## 🚀 Installation
+## Installation
 
 ### Prérequis
 - Un navigateur moderne (Chrome, Firefox, Edge)
@@ -55,7 +54,7 @@ npx http-server
 
 3. Ouvrez votre navigateur à `http://localhost:8000`
 
-## 🏛️ Salles disponibles
+## Salles disponibles
 
 ### Salle Renaissance
 Ambiance futuriste avec néons cyan/magenta
@@ -75,14 +74,14 @@ Ambiance dorée avec thème or/bleu électrique
 - Statue d'Anubis
 - Scarabée sacré
 
-## 🎨 Technologies
+## Technologies
 
-- **Three.js r128** - Moteur 3D WebGL
-- **JavaScript ES6** - Logique applicative
+- **Three.js** - Moteur 3D
+- **JavaScript** - Logique applicative
 - **CSS3** - Animations et effets visuels
 - **HTML5** - Structure de la page
 
-## 🛠️ Structure du projet
+## Structure du projet
 
 ```
 louvre-metaverse-2077/
@@ -97,7 +96,7 @@ louvre-metaverse-2077/
 └── README.md
 ```
 
-## 🎯 Prochaines fonctionnalités
+## Prochaines fonctionnalités
 
 - [ ] Zoom sur les œuvres au clic
 - [ ] Panneaux d'information enrichis
@@ -106,16 +105,13 @@ louvre-metaverse-2077/
 - [ ] Mode VR
 - [ ] Nouvelles salles (Art Moderne, Sculptures, etc.)
 
-## 📝 License
-
-MIT © 2024
 
 ## 👨‍💻 Auteur
 
-Projet réalisé dans le cadre d'une exploration des technologies WebGL et Three.js.
+Projet réalisé dans le cadre de Hackaton Metz Numeric Shchool 2025.
 
 ---
 
 <p align="center">
-  <strong>🤖 Année 2077 - Visite Virtuelle Immersive</strong>
+  <strong>Année 2077 - Visite Virtuelle Immersive</strong>
 </p>
