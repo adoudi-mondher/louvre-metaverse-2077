@@ -12,7 +12,7 @@
 - **Salles thématiques** - Salle Renaissance et Antiquités Égyptiennes
 - **Menu burger cyberpunk** - Navigation fluide entre les salles avec effets glitch
 - **Téléportation instantanée** - Changement de salle avec transition glitch (700ms)
-- **Œuvres authentiques** - 12 chefs-d'œuvre du Louvre avec informations détaillées
+- **Œuvres démonstratives** - 12 chefs-d'œuvre du Louvre avec informations détaillées
 - **Effets visuels cyberpunk** - Particules flottantes, néons, scanlines, animations glitch
 - **Interface futuriste** - Design inspiré de l'esthétique cyberpunk 2077
 
